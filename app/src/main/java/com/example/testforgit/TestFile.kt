@@ -4,5 +4,6 @@ class TestFile {
 
     fun addTwoNumbers(){
         print("Bye World")
+        print("Hello World")
     }
 }
